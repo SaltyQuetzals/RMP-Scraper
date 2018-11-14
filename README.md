@@ -20,14 +20,14 @@ The value of the query parameter `sid` is the unique identifier for your school 
 
 The scraper takes a while (about five minutes with decent internet).
 
-Some example commands using this scraper:
+## Examples
 
+**Texas A&M University**
 ```
 python src/scraper.py 1003
 ```
-For Texas A&M University
 
+**Stanford University**
 ```
 python src/scraper.py 953
 ```
-For Stanford University
