@@ -31,3 +31,13 @@ python src/scraper.py 1003
 ```
 python src/scraper.py 953
 ```
+
+**Cornell University**
+```
+python src/scraper.py 298
+```
+
+**University of Texas at Dallas**
+```
+python src/scraper.py 1273
+```
