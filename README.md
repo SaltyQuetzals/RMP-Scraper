@@ -18,7 +18,7 @@ http://www.ratemyprofessors.com/campusRatings.jsp?sid=<YOUR_SCHOOL_ID>
 ```
 The value of the query parameter `sid` is the unique identifier for your school that serves as the required command-line argument for the scraper.
 
-The scraper takes a while (about five minutes with decent internet).
+The scraper takes a while (about five minutes with decent internet for more than 26,000 examples).
 
 ## Examples
 
